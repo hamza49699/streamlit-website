@@ -1,7 +1,7 @@
-import streamlit as st  # type: ignore
-from pdf2docx import Converter # type: ignore
-from docx import Document # type: ignore
-from fpdf import FPDF # type: ignore
+import streamlit as st  
+from pdf2docx import Converter 
+from docx import Document
+from fpdf import FPDF 
 import io
 import time
 
